@@ -12,6 +12,8 @@ The website is built using JavaScript, CSS, and HTML, with a Java API and a MySQ
 
 **Add a New Customer to the Database ('POST')**: Add a new customer to the MySQL database by providing the necessary customer information.
 
+This API serves only to persist users. Other interactions are possible through frontend and chatGPT API.
+
 ## Technologies Used
 
 **Frontend**:
