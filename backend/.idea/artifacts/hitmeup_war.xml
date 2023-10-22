@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hitmeup:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>hitmeup</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Hit Me Up.war">
+      <element id="artifact" artifact-name="hitmeup:war exploded" />
+    </root>
+  </artifact>
+</component>
