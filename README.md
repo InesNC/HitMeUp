@@ -17,15 +17,21 @@ The website is built using JavaScript, CSS, and HTML, with a Java API and a MySQ
 **Frontend**:
 
 JavaScript
+
 HTML
+
 CSS
+
 JQuery
+
 AJAX
+
 JSON
 
 **Backend**:
 
 Java
+
 Maven for dependency management
 
 **Database**:
@@ -69,9 +75,13 @@ Use the website to perform actions like retrieving customer data by ID and addin
 This project was developed as a group project in 24h, by:
 
 Ines Croca
+
 Jose Soares
+
 Marcelo Vicente
+
 Marlon de Azevedo
+
 Ruben Moreira
 
 ## Support and Issues
